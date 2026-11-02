@@ -1,1 +1,0 @@
-# sdn-socket-auth-controller
